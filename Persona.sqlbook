@@ -1,0 +1,14 @@
+-- SQLBook: Code
+CREATE TABLE persona{
+    id INT(11) NOT NULL AUTO_INCREMENT,BIGINT
+    id_numb INT(11) NOT NULL,BIGINT
+    id_type VARCHAR(30) NOT NULL,BIGINT
+    Namen VARCHAR(30) NOT NULL,BIGINT
+    last_namen VARCHAR(30) NOT NULL,BIGINT
+    Dia_de_nacimiento DATE NOT NULL,BIGINT
+    email VARCHAR(100) NOT NULL,BIGINT
+    telefono VARCHAR(20) NOT null, BIGINT
+    PRIMARY KEY(id)
+
+}
+-- SQLBook: Code
